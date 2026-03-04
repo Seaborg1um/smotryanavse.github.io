@@ -19,7 +19,7 @@ export default function Home() {
       {/* HERO */}
       <section className="hero">
         <div className="hero-image">
-          <img src="/smotryanavse.github.io/hero.jpg" alt="Hero" />
+          <img src="/hero.jpg" alt="Hero" />
         </div>
       </section>
 
